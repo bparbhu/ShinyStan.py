@@ -1,2 +1,2 @@
 # ShinyStan.py
-Shiny Stan visualization framework in Python
+ShinyStan visualization framework in Python
